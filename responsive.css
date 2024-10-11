@@ -1,0 +1,36 @@
+@media screen and (max-width: 600px) {
+  .right_expertise {
+    text-align: center;
+  }
+}
+
+@media screen and (max-width: 751px) {
+  .project_container {
+    width: 95%;
+    margin: 30px auto;
+  }
+}
+
+@media screen and (max-width: 577px) {
+
+  .subtitle,
+  .exp_heading,
+  .section7 {
+
+    text-align: center;
+  }
+
+  .about_resume {
+    text-align: center !important;
+  }
+
+  .exp_role,
+  .exp_date,
+  .exp_company_name {
+    text-align: center;
+  }
+
+  .exp_company_name {
+    margin: 10px 0px;
+  }
+}
